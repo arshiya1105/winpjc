@@ -5,45 +5,9 @@
   padding: 0.2em 0;
 }
 
-.box{
-  margin: 10px;
-  background-color: antiquewhite;
+.offcanvas-main{
+  background-color: bisque;
 }
-/* Space out content a bit */
 
 
-h1{
-  text-align: center;
-  color: rgb(245, 173, 84);
-  background-color: bisque
-}
-/* nav styles */
-html, body {
-  height: 100%;
-  }
 
-body {
-  padding: 70px 0 0 0;
-  }
-
-.navbar-toggle {
-  float: left;
-  margin-left: 15px;
-  }
-
-@media (min-width: 0) {
-  .navbar-toggle {
-    display: block; /* force showing the toggle */
-    }
-  }
-
-@media (min-width: 992px) {
-  body {
-    padding: 0;
-    }
-  .navbar {
-    right: auto;
-    background: none;
-    border: none;
-    }
-  }
